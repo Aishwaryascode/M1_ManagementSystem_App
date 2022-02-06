@@ -7,7 +7,7 @@
 ![Screenshot (152)](https://user-images.githubusercontent.com/98829664/152642315-75830030-e835-47f6-88f9-0dbbc364f104.png)
 
 * Screenshot of GitHub Learning
-![Screenshot (149)](https://user-images.githubusercontent.com/98829664/152642320-69c8d692-eaac-4545-950d-61155624063c.png)
+![Screenshot (160)](https://user-images.githubusercontent.com/98829664/152675436-51aa84e6-a5a6-4447-ba0b-322529668176.png)
 ![Screenshot (150)](https://user-images.githubusercontent.com/98829664/152642326-2ac2e7df-c34f-459a-b84f-7eeb00d55df6.png)
 
 * Screenshot of HackerEarth Points
