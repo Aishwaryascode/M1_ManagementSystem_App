@@ -31,7 +31,7 @@ It’s an easy way for Admin to retrieve the data if the vehicle has been visite
                 :- Save in nature (reduce pollution).
 
 * Threats       :- To be acceptable by the driver culture.
-                :- Thre are similar application developed in world wide.
+                :- There are similar application developed in world wide.
 
 
 ## 4W's and 1H ?
