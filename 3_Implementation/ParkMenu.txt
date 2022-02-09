@@ -1,13 +1,13 @@
 
 
 
-	. . . . .WELCOME TO THE CRACKER PARKING . . . . . . . . . . . . . . . 
+	. . . . .WELCOME TO THE CRACKER PARKING . . . . . . . . . . . 
 	.					       								    .
 	.	1.BUS	    ------  100TK.		      				    .		        
 	.	2.TRUCK     ------  80TK.		   				        .
 	.	3.CAR	     ------  70TK. 		    				    .
 	.	4.MOTOR CYCLE ------  60TK.	     					    .
-	.	5.BICYCLE   ------  40RTK.		 				        .
+	.	5.By CYCLE   ------  40RTK.		 				        .
 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 	.	6.SHOW DETAILS.			       						    .
 	.	7.EXIT				       							    .

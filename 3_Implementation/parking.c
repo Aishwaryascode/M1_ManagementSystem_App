@@ -2,17 +2,19 @@
 
 
 
-int date, month, year, option, number, total1=0, total2=0, total3=0, total4=0, total5=0, total;
-char ch;
-float time;
 
+int year, month, date, number, option, total, total1=0, total2=0, total3=0, total4=0, total5=0;
+float time;
+char ch;
+
+// Information of Car
 void car()
 {
     FILE *car;
     car = fopen("car image.txt", "r");
     if(car==NULL)
     {
-         printf("FILE DOES NOT EXIST!!!!");
+         printf("FILE DOES NOT EXIST!");
     }
     else
     {
@@ -28,7 +30,7 @@ void car()
 void park_details()
 {
     FILE *details;
-    details = fopen("park details.txt", "r");
+    details = fopen("ParkDetails.txt", "r");
     if(details==NULL)
     {
           printf("FILE DOES NOT EXIST!!!!");
@@ -48,10 +50,10 @@ void park_details()
 void menu()
 {
     FILE *menu;
-    menu = fopen("park menu.txt", "r");
+    menu = fopen("ParkMenu.txt", "r");
     if(menu==NULL)
     {
-        printf("FILE DOES NOT EXIST!!!!");
+        printf("FILE DOES NOT EXIST!");
     }
     else
     {
