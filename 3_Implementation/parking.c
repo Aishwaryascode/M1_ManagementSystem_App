@@ -28,7 +28,7 @@ void car()
 }
 
 void park_details()
-{
+{ // Parking Details
     FILE *details;
     details = fopen("ParkDetails.txt", "r");
     if(details==NULL)
@@ -45,14 +45,14 @@ void park_details()
     }
 
 
-}
+} // End of Parking Details
 
 void menu()
-{
+{ // Parking Menu 
     FILE *menu;
     menu = fopen("ParkMenu.txt", "r");
     if(menu==NULL)
-    {
+    { 
         printf("FILE DOES NOT EXIST!");
     }
     else
@@ -64,4 +64,4 @@ void menu()
         }
     }
 
-}
+} // End of Parking Menu

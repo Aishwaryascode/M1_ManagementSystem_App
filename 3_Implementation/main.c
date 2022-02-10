@@ -5,7 +5,7 @@
 // Main Function
 
 int main()
-{
+{ // Start of Main
     system("CLS");
     system("color 0A");
 
@@ -25,7 +25,7 @@ int main()
     system("CLS");
 
     while(1)
-    {
+    { // Start of While Loop
         car();
         menu();
         printf("ENTER AN OPTION: ");
@@ -35,7 +35,7 @@ int main()
 
 // Using switch case to choose the option
         switch(option)
-        {
+        { // Start of Switch Statement
 
             //Detail of By Cycle
         case 1:
@@ -45,7 +45,7 @@ int main()
             printf(" ENTER REGISTRATION NUMBER: ");
             scanf("%d", &number);
 
-            total5+=40;
+            total5+=40; // 40Rs Tickek for By Cycle
             fprintf(details, "\t\tBY CYCLE\t\t%.2f\t\t%d\t\t40\n", time, number);
              printf("SUCCESSFULLY ADDED!!!!");
             getch();
@@ -60,7 +60,7 @@ int main()
             printf(" ENTER REGISTRATION NUMBER: ");
             scanf("%d", &number);
 
-            total4+=60;
+            total4+=60; // 60Rs Ticket for Motor Cycle
             fprintf(details, "\t\tMOTOR CYCLE\t\t%.2f\t\t%d\t\t60\n", time, number);
                 printf("SUCCESSFULLY ADDED!!!!");
             getch();
@@ -74,7 +74,7 @@ int main()
             printf(" ENTER REGISTRATION NUMBER: ");
             scanf("%d", &number);
 
-            total3+=70;
+            total3+=70; // 70Rs Ticket  for Private Car
             fprintf(details, "\t\tPRIVATE CAR\t\t%.2f\t\t%d\t\t70\n", time, number);
             printf("SUCCESSFULLY ADDED!!!!");
             getch();
@@ -89,7 +89,7 @@ int main()
             printf(" ENTER REGISTRATION NUMBER: ");
             scanf("%d", &number);
 
-            total1 +=100;
+            total1 +=100; // 100Rs Ticket for Bus
 
             fprintf(details, "\t\tBUS\t\t%.2f\t\t%d\t\t100\n", time, number);
             printf("SUCCESSFULLY ADDED!!!!");
@@ -104,7 +104,7 @@ int main()
             printf(" ENTER REGISTRATION NUMBER: ");
             scanf("%d", &number);
 
-            total2+=80;
+            total2+=80; // 80Rs Ticket for Truck
             fprintf(details, "\t\tTRUCK      \t\t%.2f\t\t%d\t\t80\n", time, number);
             printf("SUCCESSFULLY ADDED!!!!");
             getch();
@@ -140,11 +140,11 @@ int main()
             system("CLS");
             break;
 
-        }
+        } // End of Switch Statement
 
 
-    }
+    } // End of While Loop
 
 
     return 0;
-}
+} // End of Main
