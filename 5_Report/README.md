@@ -1,13 +1,13 @@
 # Report
 * We can park our vehicle in our own slot by paying.
-•	Because of that there is no towing problems.
-•	And our vehicle has been parked as a secure condition.
-•	 There is no risk for vehicle owner for parking the car.
-•	In case of any damages and problem of vehicle that will claim by parking management.
-•	As the world is facing many threads daily, robberies are done easily with no track to trace, bomb blasts occur with the use of vehicle, so if a proper system is adopted each and every record can be saved and anyone can be track easily therefore mainly is to make a better and fast software, most important user-friendly
-•	Maintain records in short time of period.
-•	Determines the parking area is full or not.
-•	Enhances the visitor’s experience.
+- Because of that there is no towing problems.
+- And our vehicle has been parked as a secure condition.
+- There is no risk for vehicle owner for parking the car.
+- In case of any damages and problem of vehicle that will claim by parking management.
+- As the world is facing many threads daily, robberies are done easily with no track to trace, bomb blasts occur with the use of vehicle, so if a proper system is adopted each and every record can be saved and anyone can be track easily therefore mainly is to make a better and fast software, most important user-friendly
+- Maintain records in short time of period.
+- Determines the parking area is full or not.
+- Enhances the visitor’s experience.
 
 
  * Scope:
