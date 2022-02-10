@@ -37,53 +37,10 @@ int main()
         switch(option)
         { // Start of Switch Statement
 
-            //Detail of By Cycle
+
+            //Detail of Bus
         case 1:
 
-        printf(" ENTER TIME: ");
-            scanf("%f", &time);
-            printf(" ENTER REGISTRATION NUMBER: ");
-            scanf("%d", &number);
-
-            total5+=40; // 40Rs Tickek for By Cycle
-            fprintf(details, "\t\tBY CYCLE\t\t%.2f\t\t%d\t\t40\n", time, number);
-             printf("SUCCESSFULLY ADDED!!!!");
-            getch();
-            system("CLS");
-            break;
-            
-            // Detail of Motor Cycle
-        case 2:
-
-            printf(" ENTER TIME: ");
-            scanf("%f", &time);
-            printf(" ENTER REGISTRATION NUMBER: ");
-            scanf("%d", &number);
-
-            total4+=60; // 60Rs Ticket for Motor Cycle
-            fprintf(details, "\t\tMOTOR CYCLE\t\t%.2f\t\t%d\t\t60\n", time, number);
-                printf("SUCCESSFULLY ADDED!!!!");
-            getch();
-            system("CLS");
-            break;
-
-            // Detail of Private Car
-        case 3:
-            printf(" ENTER TIME: ");
-            scanf("%f", &time);
-            printf(" ENTER REGISTRATION NUMBER: ");
-            scanf("%d", &number);
-
-            total3+=70; // 70Rs Ticket  for Private Car
-            fprintf(details, "\t\tPRIVATE CAR\t\t%.2f\t\t%d\t\t70\n", time, number);
-            printf("SUCCESSFULLY ADDED!!!!");
-            getch();
-            system("CLS");
-            break;
-
-            // Detail of Bus
-        case 4:
-        
         printf(" ENTER TIME: ");
             scanf("%f", &time);
             printf(" ENTER REGISTRATION NUMBER: ");
@@ -96,10 +53,12 @@ int main()
             getch();
             system("CLS");
             break;
+            
 
             // Detail of Truck
-        case 5:
-        printf(" ENTER TIME: ");
+        case 2:
+
+            printf(" ENTER TIME: ");
             scanf("%f", &time);
             printf(" ENTER REGISTRATION NUMBER: ");
             scanf("%d", &number);
@@ -110,9 +69,59 @@ int main()
             getch();
             system("CLS");
             break;
+            
+
+            // Detail of Private Car
+        case 3:
+
+            printf(" ENTER TIME: ");
+            scanf("%f", &time);
+            printf(" ENTER REGISTRATION NUMBER: ");
+            scanf("%d", &number);
+
+            total3+=70; // 70Rs Ticket  for Private Car
+            fprintf(details, "\t\tPRIVATE CAR\t\t%.2f\t\t%d\t\t70\n", time, number);
+            printf("SUCCESSFULLY ADDED!!!!");
+            getch();
+            system("CLS");
+            break;
+
+
+            // Detail of Motor Cycle
+        case 4:
+        
+            printf(" ENTER TIME: ");
+            scanf("%f", &time);
+            printf(" ENTER REGISTRATION NUMBER: ");
+            scanf("%d", &number);
+
+            total4+=60; // 60Rs Ticket for Motor Cycle
+            fprintf(details, "\t\tMOTOR CYCLE\t\t%.2f\t\t%d\t\t60\n", time, number);
+                printf("SUCCESSFULLY ADDED!!!!");
+            getch();
+            system("CLS");
+            break;
+        
+
+            // Detail of By Cycle
+        case 5:
+
+            printf(" ENTER TIME: ");
+            scanf("%f", &time);
+            printf(" ENTER REGISTRATION NUMBER: ");
+            scanf("%d", &number);
+
+            total5+=40; // 40Rs Tickek for By Cycle
+            fprintf(details, "\t\tBY CYCLE\t\t%.2f\t\t%d\t\t40\n", time, number);
+             printf("SUCCESSFULLY ADDED!!!!");
+            getch();
+            system("CLS");
+            break;
+        
 
             // Back to Menu
         case 6:
+
             system("CLS");
             park_details();
                  printf("\n\n\n\t\t\tPRESS ANY KEY TO BACK TO MAIN MENU....");
@@ -121,8 +130,10 @@ int main()
             system("CLS");
             break;
 
+
             // Calculating total amount
         case 7:
+
             total=total1+total2+total3+total4+total5;
             fprintf(details,"\t\t\t\t\t\t\t\t\t\t\t Total = %d",total);
              fprintf(details,"\n.....................................................................................................\n");
@@ -131,6 +142,7 @@ int main()
             // Exit
             exit(0);
             break;
+
 
 // Invalid Input
         default:
