@@ -2,7 +2,8 @@
 Repository to create Parking Management System
 
 * Codiga score badge 
-https://api.codiga.io/project/30932/score/svg
+- https://api.codiga.io/project/30932/score/svg
+- https://api.codiga.io/project/30932/status/svg
 
 
 Some Screenshots:
@@ -12,7 +13,7 @@ Some Screenshots:
 
 
 * Codacy Score:
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/912e55cb8dfe42ef8580cb56306d48c8)](https://www.codacy.com/gh/Aishwaryascode/M1_ManagementSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aishwaryascode/M1_ManagementSystem_App&amp;utm_campaign=Badge_Grade)
+- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/912e55cb8dfe42ef8580cb56306d48c8)](https://www.codacy.com/gh/Aishwaryascode/M1_ManagementSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aishwaryascode/M1_ManagementSystem_App&amp;utm_campaign=Badge_Grade)
 
 
 Some Screenshots:
