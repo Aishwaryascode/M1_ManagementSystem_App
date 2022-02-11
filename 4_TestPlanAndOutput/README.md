@@ -8,7 +8,7 @@
 * Table
 
 
-| Sr. No |Test Cases | Input Values | Expected Output | Actual Output |
+| Test ID |Test Cases | Input Values | Expected Output | Actual Output |
 |:------:|:---------:|:------------:|:---------------:|:-------------:|
 |1.|Added details of Bus|Registration number|12121|12121|
 |2.|Added details of Truck|Registration number|12121|12121|
