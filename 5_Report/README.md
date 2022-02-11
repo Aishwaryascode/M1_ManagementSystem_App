@@ -16,5 +16,5 @@ Vehicle parking management system is an automatic system which delivers data pro
 
 
 * Definition of problem:
-•	Now a days in parking like valet parking they maintain just with the tokens and they have records the vehicle details in books so that during some critical situations like police enquiry of terrorist  car or vehicle roberrer that case it is difficult to find the details of particular vehicle but in this case is easy to find in 1 to 2 seconds 
-•	By parking the vehicle in public place the vehicle can be claimed by towing person but in this case there is no towing problems and no need to give fine for anything we can park our vehicle with securely.  
+- Now a days in parking like valet parking they maintain just with the tokens and they have records the vehicle details in books so that during some critical situations like police enquiry of terrorist  car or vehicle roberrer that case it is difficult to find the details of particular vehicle but in this case is easy to find in 1 to 2 seconds 
+- By parking the vehicle in public place the vehicle can be claimed by towing person but in this case there is no towing problems and no need to give fine for anything we can park our vehicle with securely.  
