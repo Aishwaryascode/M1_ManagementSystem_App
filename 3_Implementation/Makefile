@@ -1,12 +1,11 @@
-
-output: main.o parking.o
-	gcc main.o parking.o -o output 
+#TargetName : Dependencies
+#<TAB>commands
 
 main.o: main.c
 	gcc -c main.c
 
-parking.o: parking.c parking.h
-	gcc -c parking.c
+billing.o: billing.c billing.h
+	gcc -c billing.c
 
 clean:
 	rm *.o output
